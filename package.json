@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "paypal": "^1.0.1"
+  },
+  "name": "bizz-shop",
+  "version": "1.0.0",
+  "main": "BizzStore.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bizz Team",
+  "license": "ISC",
+  "description": "N/A",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bizzteam/bizzshop.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bizzteam/bizzshop/issues"
+  },
+  "homepage": "https://github.com/bizzteam/bizzshop#readme"
+}
